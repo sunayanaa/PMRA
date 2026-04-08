@@ -58,7 +58,7 @@ The scripts are numbered sequentially to reflect the logical pipeline from data 
 
 ---
 
-## 🚀 How to Run
+## How to Run
 To reproduce the experimental results from the paper, execute the scripts sequentially in your environment:
 
 1. Setup the data: `python pmra_01_data_initialization.py`
